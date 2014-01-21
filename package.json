@@ -11,6 +11,7 @@
     "hbs":"*",
     "grunt": "*",
     "grunt-contrib-watch": "*",
-    "grunt-sass": "*"
+    "grunt-sass": "*",
+    "grunt-contrib-cssmin":"*"
   }
 }
