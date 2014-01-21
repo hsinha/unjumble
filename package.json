@@ -8,6 +8,9 @@
     "sass": "*",
     "nib": "*",
     "handlebars":"*",
-    "hbs":"*"
+    "hbs":"*",
+    "grunt": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-sass": "*"
   }
 }
